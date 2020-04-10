@@ -1,13 +1,5 @@
 # introtocars
 
----
-title: "cars niyati"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 #Introduction to cars dataset. Data gives speed of cars and distances. Data recorded in 1920s. It has 50 observations and 2 variables.
 
 ```{r}
